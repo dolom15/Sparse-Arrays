@@ -1,1 +1,1 @@
-# Sparse-Arrays
+# Sparse-Arrays This code counts how many times each string in `queries` appears in `stringList` by first building a frequency dictionary of all strings. The `matchingStrings` function then returns a list of counts corresponding to each query, or 0 if the string does not exist in `stringList`.
